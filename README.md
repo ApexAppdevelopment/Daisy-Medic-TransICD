@@ -1,4 +1,4 @@
-# TransICD: Transformer Based Code-wise Attention Model for Explainable ICD Coding
+# Aitek Software Medic - TransICD: Transformer Based Code-wise Attention Model for Explainable ICD Coding
 
 This repository contains the official PyTorch implementation of the following paper:
 
